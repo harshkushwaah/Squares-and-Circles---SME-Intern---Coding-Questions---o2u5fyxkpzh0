@@ -7,11 +7,7 @@
   grid-template-rows: repeat(3, 1fr); 
   gap: 10px;
 }
-.outer-square div{
 
-    margin: 10px;
-  
-}
 .inner-square {
   /* your css goes here */
   background-color: green;
